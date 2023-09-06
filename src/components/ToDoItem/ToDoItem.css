@@ -1,0 +1,8 @@
+.ToDoItem{
+    padding: 15px;
+    background-color: black;
+    color: aliceblue;
+    margin: 20px auto;
+    text-align: left;
+    border-radius: 3%;
+}
