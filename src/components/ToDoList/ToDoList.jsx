@@ -11,7 +11,9 @@ const ToDoList = ({ enumeration, DeleteToDoItem, EditToDoForm,  UpdateToDoItem }
             key = {item.id} 
             item = {item} 
             EditToDoForm = {EditToDoForm}  
-            UpdateToDoItem = { UpdateToDoItem}/>
+            UpdateToDoItem = { UpdateToDoItem}
+          />
+        
         ) : (
           <ToDoItem 
             key={item.id} 

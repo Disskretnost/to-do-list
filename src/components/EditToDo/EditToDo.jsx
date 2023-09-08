@@ -1,5 +1,6 @@
 import React from 'react'
 import { useState } from 'react';
+import "./EditToDo.css"
 
 const EditToDo = ({item, EditToDoForm,  UpdateToDoItem}) => {
     const [title, setTitle] = useState(item.task);

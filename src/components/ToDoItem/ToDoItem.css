@@ -5,10 +5,12 @@
     background-color: black;
     color: aliceblue;
     margin: 20px auto;
+    width: 440px;
     text-align: left;
     border-radius: 3%;
-
+    font-size: 20px;
 }
+
 
 .icons{
     display: flex;

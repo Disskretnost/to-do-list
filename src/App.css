@@ -12,15 +12,14 @@
   justify-content: flex-start;
   min-height: 100vh;
   text-align: center;
-  background: rgb(233,218,93);
-  background: linear-gradient(58deg, rgba(233,218,93,1) 1%, rgba(213,119,61,1) 78%)
+  background: url(./images/1639783718_176-catherineasquithgallery-com-p-fon-krasivii-rozovii-odnotonnii-267.jpg)
   
 }
 
 .container{
-  padding: 60px;
+  padding: 50px 40px 50px;
   max-width: 600px;
-  margin: 0 auto;
+  margin: 3% auto 0;
   background-color: white;
   border-radius: 13px;
 }

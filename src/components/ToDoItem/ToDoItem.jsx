@@ -6,7 +6,7 @@ import {RiDeleteBin6Line} from 'react-icons/ri';
 const ToDoItem = ({ todo, DeleteToDoItem, EditToDoForm}) => {
   return (
     <div className='ToDoItem'>
-      <p>{todo.task}</p>
+      <p className='ToDoItem_-text'>{todo.task}</p>
       <div className="icons">
         <LuEdit 
           className='icons__item' 

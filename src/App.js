@@ -28,7 +28,6 @@ function App() {
       const resp = await axios.post('http://localhost:3001/items', {
         id: uuidv4(),
         task: title,
-        completed: false,
         isEditing: false
       });
       console.log(resp.data);
