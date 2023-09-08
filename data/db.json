@@ -1,14 +1,5 @@
 {
   "items": [
-    {
-      "id": 1,
-      "task": "вввв",
-      "complete": false
-    },
-    {
-      "id": 2,
-      "task": "авававав",
-      "complete": false
-    }
+
   ]
 }

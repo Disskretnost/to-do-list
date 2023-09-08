@@ -1,8 +1,21 @@
 .ToDoItem{
+    display: flex;
+    justify-content: space-between;
     padding: 15px;
     background-color: black;
     color: aliceblue;
     margin: 20px auto;
     text-align: left;
     border-radius: 3%;
+
+}
+
+.icons{
+    display: flex;
+    gap: 6px;
+}
+
+.icons__item{
+    width: 20px;
+    height: 20px;
 }
